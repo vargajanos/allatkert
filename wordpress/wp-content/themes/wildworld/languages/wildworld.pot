@@ -1,0 +1,398 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wildworld\n"
+"POT-Creation-Date: 2023-04-05 16:21+0530\n"
+"PO-Revision-Date: 2023-04-05 16:21+0530\n"
+"Last-Translator: \n"
+"Language-Team: Risingthemes Team <support@risingthemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_attr_e;esc_html_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: block-patterns.php:17
+msgid "Wildworld"
+msgstr ""
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/about.php:48
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/about.php:59
+msgid "Getting Started with Wildworld!"
+msgstr ""
+
+#: inc/about.php:60
+msgid ""
+"Awesome! Wildworld has been installed and activated successfully. Now, you "
+"can start building your dream website with a wide range of highly-"
+"customizable block patterns, templates, and template parts available in this "
+"astounding theme."
+msgstr ""
+
+#: inc/about.php:66
+msgid "More Features with Wildworld Pro Theme"
+msgstr ""
+
+#: inc/about.php:67
+msgid ""
+"To get more features and unique home page sections, we recommend you "
+"activate the Wildworld Pro. With the pro theme installed, get more options "
+"like google fonts, colors, sliders, page template, shortcodes and more."
+msgstr ""
+
+#: inc/about.php:68
+msgid "Buy Wildworld Pro"
+msgstr ""
+
+#: inc/about.php:77
+msgid "Important Links"
+msgstr ""
+
+#: inc/about.php:78
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about.php:79
+msgid "View Demo"
+msgstr ""
+
+#: inc/about.php:80
+msgid "Support"
+msgstr ""
+
+#: inc/about.php:87
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/about.php:88
+msgid ""
+"Loved Wildworld? Feel free to leave your feedback. Your opinion helps us "
+"reach more audiences!"
+msgstr ""
+
+#: inc/about.php:89
+msgid "Review"
+msgstr ""
+
+#: patterns/404.php:12
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:16
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:20
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Return Home"
+msgstr ""
+
+#: patterns/archive.php:54
+msgid "Sorry, No posts exists..."
+msgstr ""
+
+#: patterns/archive.php:65
+#: patterns/single.php:63
+msgid "Search"
+msgstr ""
+
+#: patterns/archive.php:75
+#: patterns/single.php:73
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/archive.php:99
+#: patterns/single.php:97
+msgid "Categories"
+msgstr ""
+
+#: patterns/archive.php:109
+#: patterns/single.php:107
+msgid "Archives"
+msgstr ""
+
+#: patterns/archive.php:119
+#: patterns/single.php:117
+msgid "Tags"
+msgstr ""
+
+#: patterns/banner.php:15
+msgid "Welcome To The Wildworld"
+msgstr ""
+
+#: patterns/banner.php:20
+msgid "GET QUOTE"
+msgstr ""
+
+#: patterns/features.php:25
+msgid "BUY TICKETS"
+msgstr ""
+
+#: patterns/features.php:29
+#: patterns/features.php:53
+#: patterns/features.php:77
+msgid "Orci varius natoque penatibus et magnis dis parturient montes"
+msgstr ""
+
+#: patterns/features.php:49
+msgid "NEW EVENTS"
+msgstr ""
+
+#: patterns/features.php:73
+msgid "WILDWORLD MAP"
+msgstr ""
+
+#: patterns/footer.php:25
+msgid "Street #156 Burbank, California, USA"
+msgstr ""
+
+#: patterns/footer.php:35
+#: patterns/footer.php:45
+msgid "+02 (231) 0000 11"
+msgstr ""
+
+#: patterns/footer.php:55
+msgid "info@sitename.com"
+msgstr ""
+
+#: patterns/footer.php:65
+msgid "10:00 AM to 17:00 PM"
+msgstr ""
+
+#: patterns/footer.php:82
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer.php:91
+msgid "Home"
+msgstr ""
+
+#: patterns/footer.php:95
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer.php:99
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer.php:103
+msgid "Services"
+msgstr ""
+
+#: patterns/footer.php:107
+msgid "FAQs"
+msgstr ""
+
+#: patterns/footer.php:111
+msgid "Terms of Services"
+msgstr ""
+
+#: patterns/footer.php:115
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer.php:122
+msgid "Our Animals"
+msgstr ""
+
+#: patterns/footer.php:131
+msgid "African Lion"
+msgstr ""
+
+#: patterns/footer.php:135
+msgid "Giraffe"
+msgstr ""
+
+#: patterns/footer.php:139
+msgid "Deer"
+msgstr ""
+
+#: patterns/footer.php:143
+msgid "Tiger"
+msgstr ""
+
+#: patterns/footer.php:147
+msgid "Elephant"
+msgstr ""
+
+#: patterns/footer.php:151
+msgid "Hippo"
+msgstr ""
+
+#: patterns/footer.php:155
+msgid "Crocodile"
+msgstr ""
+
+#: patterns/footer.php:162
+msgid "Our Recent Posts"
+msgstr ""
+
+#: patterns/footer.php:186
+msgid "There is no posts to display"
+msgstr ""
+
+#: patterns/footer.php:199
+msgid "© Copyright 2023. All Rights Reserved."
+msgstr ""
+
+#: patterns/footer.php:203
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer.php:203
+msgid "Star Themes"
+msgstr ""
+
+#: patterns/footer.php:203
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:203
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:203
+msgid "WordPress"
+msgstr ""
+
+#: patterns/introduction.php:17
+msgid "Welcome To Wildworld"
+msgstr ""
+
+#: patterns/introduction.php:22
+msgid "Words About Best Animal Worlds&nbsp;Big Wild"
+msgstr ""
+
+#: patterns/introduction.php:27
+msgid ""
+"Nam condimentum tellus rhoncus justo eleifend venenatis. Suspendisse mollis "
+"nec velit at fringilla. Vestibulum eu semper diam, nec blandit augue."
+msgstr ""
+
+#: patterns/introduction.php:31
+msgid ""
+"In condimentum mi ligula, vel porttitor mauris lacinia id. Cras lacus dui, "
+"tincidunt sit amet quam finibus, dapibus aliquet dolor. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Vestibulum sollicitudin tellus justo, "
+"vitae sodales erat lobortis quis."
+msgstr ""
+
+#: patterns/introduction.php:35
+msgid ""
+"Nulla in euismod libero. Mauris leo lectus, varius non justo eu, dignissim "
+"semper nisl. Phasellus ipsum turpis, lacinia quis urna ac, pulvinar lobortis "
+"lorem. Praesent velit purus, cursus a euismod at, ornare in neque. Integer "
+"pellentesque purus vel ante consectetur pretium."
+msgstr ""
+
+#: patterns/introduction.php:41
+msgid "More About Us"
+msgstr ""
+
+#: patterns/latest-news.php:13
+msgid "RECENT NEWS"
+msgstr ""
+
+#: patterns/latest-news.php:21
+msgid "Our Latest Case Detail News"
+msgstr ""
+
+#: patterns/latest-news.php:52
+msgid "There is no post found"
+msgstr ""
+
+#: patterns/services.php:13
+msgid "SERVICE ADVANTAGES"
+msgstr ""
+
+#: patterns/services.php:21
+msgid ""
+"We Are Helping People, Places And The Planet Through The Following Services"
+msgstr ""
+
+#: patterns/services.php:41
+msgid "Protected Injure Animals"
+msgstr ""
+
+#: patterns/services.php:45
+#: patterns/services.php:67
+#: patterns/services.php:89
+#: patterns/services.php:113
+#: patterns/services.php:135
+#: patterns/services.php:157
+msgid ""
+"Quisque tempor elementum tellus in tempus. Maecenas aliquet in nunc sed "
+"porta."
+msgstr ""
+
+#: patterns/services.php:63
+msgid "Qualified Volunteer"
+msgstr ""
+
+#: patterns/services.php:85
+msgid "Medical Facilities"
+msgstr ""
+
+#: patterns/services.php:109
+msgid "Ecosystem Conservation"
+msgstr ""
+
+#: patterns/services.php:131
+msgid "Global Leadership"
+msgstr ""
+
+#: patterns/services.php:153
+msgid "Habitat Protection"
+msgstr ""
+
+#: patterns/team.php:13
+msgid "MEET OUR VOLUNTEER"
+msgstr ""
+
+#: patterns/team.php:21
+msgid "Join Our Volunteer And Save The Wildworld!"
+msgstr ""
+
+#: patterns/team.php:51
+msgid "Amelia Daniel"
+msgstr ""
+
+#: patterns/team.php:55
+msgid "Animal Associate"
+msgstr ""
+
+#: patterns/team.php:83
+msgid "Toni Pinto"
+msgstr ""
+
+#: patterns/team.php:87
+msgid "Animal Sepcialist"
+msgstr ""
+
+#: patterns/team.php:115
+msgid "Andrew Bert"
+msgstr ""
+
+#: patterns/team.php:119
+msgid "Zookeeper"
+msgstr ""
+
+#: patterns/team.php:147
+msgid "Arron Rodri"
+msgstr ""
+
+#: patterns/team.php:151
+msgid "Volunteer"
+msgstr ""
